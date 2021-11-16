@@ -1,2 +1,2 @@
 # Python
- projects developed in python
+ projects developed in Python
